@@ -130,4 +130,9 @@ By completing these laboratory exercises, I developed practical skills in:
 ---
 ## 📸 Sample Results
 ![image alt](https://github.com/TharakaLenadora/Python_physics-/blob/4f20cc27f4e5a54adf9d1fbdac13b0cf1ccad30a/Screenshot%202026-07-05%20100511.png)
-
+![image alt](https://github.com/TharakaLenadora/Python_physics-/blob/4f20cc27f4e5a54adf9d1fbdac13b0cf1ccad30a/Screenshot%202026-07-05%20100534.png)
+![image alt](https://github.com/TharakaLenadora/Python_physics-/blob/4f20cc27f4e5a54adf9d1fbdac13b0cf1ccad30a/Screenshot%202026-07-05%20100558.png)
+![image alt](https://github.com/TharakaLenadora/Python_physics-/blob/4f20cc27f4e5a54adf9d1fbdac13b0cf1ccad30a/Screenshot%202026-07-05%20100612.png)
+![image alt](https://github.com/TharakaLenadora/Python_physics-/blob/4f20cc27f4e5a54adf9d1fbdac13b0cf1ccad30a/Screenshot%202026-07-05%20100626.png)
+![image alt](https://github.com/TharakaLenadora/Python_physics-/blob/4f20cc27f4e5a54adf9d1fbdac13b0cf1ccad30a/Screenshot%202026-07-05%20100639.png)
+![image alt](https://github.com/TharakaLenadora/Python_physics-/blob/4f20cc27f4e5a54adf9d1fbdac13b0cf1ccad30a/Screenshot%202026-07-05%20100652.png)

@@ -128,5 +128,6 @@ By completing these laboratory exercises, I developed practical skills in:
 - Technical report writing
 
 ---
+## 📸 Sample Results
 
 
